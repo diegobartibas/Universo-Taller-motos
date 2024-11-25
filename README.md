@@ -12,8 +12,8 @@ v2
 universo.discurso.comienzo
 
       concesionario de automoviles 
-      - cliente:se conocen los datos habituales
-      - moto:se conocen los datos habituales
+      -cliente:se conocen los datos habituales
+      -moto:se conocen los datos habituales
       -mecanico:se conocen los datos habituales
       -piezas:se conocen los datos habituales
       
