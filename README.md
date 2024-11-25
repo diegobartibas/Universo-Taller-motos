@@ -22,3 +22,9 @@ universo.discurso.comienzo
 #-----------------------------------------------------------
 v3
 universo.discurso.comienzo
+-taller(de motos)
+      -cliente(,,)
+      -moto(,,)
+      -venta(,,)
+      -reparacion(,,)
+      
