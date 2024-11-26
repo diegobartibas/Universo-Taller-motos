@@ -6,7 +6,7 @@ El universo es un taller de motos
 De los clientes se conocen los datos habituales también las motos también de las motos las reparaciones y piezas
 
 universo.discurso.fin
-#-----------------------------------------------------------
+# -----------------------------------------------------------
 v2
 universo.discurso.comienzo
 
@@ -17,7 +17,7 @@ universo.discurso.comienzo
       -reparacion:se conocen los datos habituales
       
       universo.discurso.fin
-#-----------------------------------------------------------
+# -----------------------------------------------------------
 v3
 universo.discurso.comienzo
 
@@ -28,9 +28,12 @@ universo.discurso.comienzo
       -reparacion(,,)
       
 universo.discurso.fin
-#-----------------------------------------------------------
+# -----------------------------------------------------------
 v4
+universo.discurso.comienzo
 
       - taller(de automoviles)
       - cliente(dni, nombre, ape, tf, direccion, ...)
       - moto(matric, año marca, modelo)
+
+universo.discurso.fin
